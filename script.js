@@ -1,4 +1,4 @@
-var timer = 10;
+var timer = 15;
 var score = 0;
 var randomNumber;
 
